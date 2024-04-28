@@ -1,4 +1,5 @@
 Data
+
 Data is a collection of raw facts and figures that we need to process to extract meaning or information. Data is nothing unless it is processed or aligned in some context, when data is structured and organized, results in Information. 
 There are the four (4) data formats commonly seen in data processing, they include structured, semi structures, quasi-structured and unstructured data format. 
 String, Integers, float and boolean are some common examples of data type.
