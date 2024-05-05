@@ -29,3 +29,8 @@ Data Wrangling
 When data scientists identify useful data sources for solving the business problem they then proceed to extract, clean, and format the necessary data from those sources. Data wrangling is the process that ensures that the data is in a format that is clean and accurate to yield a data set that is suitable for exploration and analysis. Data wrangling extracts the most valuable information from the dataset.
 The process of data wrangling includes first finding the appropriate data that is necessary for the analysis. This data can be from one or multiple sources, such as tweets, bank transaction statements in a relational database, sensor data, and so on. Next, the data is cleaned, where there is missing data, we will either delete or substitute it with the help of several techniques. If there are outliers, we need to first detect them and then handle them appropriately. If data is from multiple sources, we will have to perform join operations to combine it.
 
+Challenges faced during data wrangling
+The primary challenge of data wrangling stems from the time commitment involved to complete the task and the little amount of automated work that could be carried out on the dataset. Understanding large volume of datasets, the processing of the datasets and combination of different data types possess a significant challenge.
+Using the appropriate tools such as python, data wrangler, google data prep, parse hub, excel and talend can overcome the challenges of data wrangling.
+
+
