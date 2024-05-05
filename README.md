@@ -66,6 +66,33 @@ Internet of things (IoTs) are physical objects such as our phones, appliances, l
 
 
 
+
+
+Internet of things (IoTs)
+
+
+
+Internet of things (IoTs) are physical objects such as our phones, appliances, lighting systems, irrigation systems, security cameras, vehicles and cities equipped with sensors and software, which enable them to interact with each other by collecting and exchanging data via wireless network, with little human intervention.
+
+In the late 1960 and 1970, the inquiry into the idea to connect personal computers (PCs) to other machines began and by 1980s, the invention of local area networks (LANs) provided an effective way to share documents and data across PCs in real time. The invention of the internet by mid 1990s extended LANs capabilities globally and in 1997, a British technologist Kevin Ashton, cofounder of the Auto-ID Center, began working on radio-frequency identification (RFID) technology that would allow physical devices to connect via microchips and wireless signals. During a speech in 1999, Ashton invented the phrase “the Internet of Things”.
+
+The Internet of things (IoTs) simplifies and automates complicated tasks. It unites the objects under one common infrastructure, it transforms them into smart objects and it remotely controls them.
+
+In transportation, the internet of things (IoTs) technologies ensures the proper tracking and delivery of goods from the manufacturer to the end user in real time. This promotes speed, efficiency and reducing personnel costs. It can also provide a medium for checking the integrity of goods through barcode, the location of goods via GPS, the monitoring of parameters and status variables of the assets via sensors and their transmission via Wi-Fi or GSM/GPRS network. Thus preventing losses, ensuring safety in storage of goods and efficiently locating the products needed.
+
+The collection of useful data about food crops and the detection of potential diseases in advance in agriculture, has led to improved agricultural production processes and the ability to meet food demands.
+
+In smart cities, the installation of sensors linked with many other devices over the internet gives information to users about malfunctions, electrical failure and issues with traffic jams, energy supply, water shortage, security incidents, etc. In addition, in smart cars the early detection of potential car failure, tire pressure, fueling needs and regular maintenance increases comfort and upgrade driver’s experience.
+
+The healthcare services can better monitor the heart rate and skin temperature, they can predict different symptoms and prevent potentially life threatening diseases through internet of things (IoTs) technologies.In a global pandemic, fast data collection and diversity is possible.
+
+With internet of things (IoTs) devices, specific challenges ranging from the inadequacy of security protection leading to loss, stolen, or incorrectly used data to the safety concerns in smart cars and and the electronic waste from IoT products. In addition, the insufficient investigation of long-term effects of IoT technologies and its sustainability are bound to have specific potential drawbacks that need careful consideration.
+
+
+
+
+
+
 Data Wrangling
 
 
