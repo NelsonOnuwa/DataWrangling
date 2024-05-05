@@ -18,7 +18,6 @@ Now, this looks like an Address of the person named Will Turner. Whereas, in the
 Data is nothing unless it is processed or is aligned in some context. The data when structured and organized (when the data is processed in some manner) results in Information.
 
 Information is “ processed data that is organized, structured or presented in a given context so that the data deliver some logical meaning that may be further utilized in decision making”.
-
 Data is something that you can consider as a low level of knowledge where you have some scattered, uncategorized, unorganized entities that do not really mean anything. Whereas Information is the second level of knowledge, where you wire up the data and assign it some context so, the data becomes meaningful.
 
 
