@@ -11,7 +11,7 @@ Big Data
 Big Data defines a situation in which data sets have grown to such enormous sizes that conventional information technologies can no longer effectively handle the size of the data set. Big data grows exponentially (becoming more rapid) and is boundless (volume), has varied formats (variety), and has high complexity (voracity and velocity). The four Vs of big data: volume, variety, voracity and velocity.
 Big data emerges from a variety of sources comprising of Internet of things (IoTs), factories, enterprise resource planning and customer relations management systems according to industry experts.
 
-Data Security
+Big Data Security
 
 Many big data tools used by enterprises to identify business opportunities, improve performance, and drive decision-making are open source and not designed with security in mind. This huge increase in data consumption leads to many data security concerns, which include Information theft, distributed denial-of-service (DDoS), ransomware etc.
 It is difficult to secure big data because of constant access by different users, the presence of open source tools and the multiple feeds of data from sources with different protection needs. Big data security challenges can be experienced both on-premises and in the cloud. It is prevalent in non-relational database, endpoint vulnerabilities, data mining solutions, access distributed data processing and storage task.
