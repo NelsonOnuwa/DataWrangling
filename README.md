@@ -1,8 +1,48 @@
 Data
 
-Data is a collection of raw facts and figures that we need to process to extract meaning or information. Data is nothing unless it is processed or aligned in some context, when data is structured and organized, it results in information. 
+Data is a collection of raw facts and figures that we need to process to extract meaning or information
+Data can be any number (0 to 9), characters (A to Z, a to z), text, words, statements, special characters (*, /, @, #, etc), pictures, sound, or videos that are context less, meaning little or nothing to a human being.
+
+For Example: Will Turner, 48, link down, blue, junior, ocean, street
+
+The data is raw and there is no meaning to it but if we organize this data:
+
+Will tuner
+
+H.no - 48, blue ocean,
+
+Link down street,
+
+Now, this looks like an Address of the person named Will Turner. Whereas, in the above example it is impossible to make out the meaning of the words.
+
+Data is nothing unless it is processed or is aligned in some context. The data when structured and organized (when the data is processed in some manner) results in Information.
+
+Information is “ processed data that is organized, structured or presented in a given context so that the data deliver some logical meaning that may be further utilized in decision making”.
+
+Data is something that you can consider as a low level of knowledge where you have some scattered, uncategorized, unorganized entities that do not really mean anything. Whereas Information is the second level of knowledge, where you wire up the data and assign it some context so, the data becomes meaningful.
+
+
+
+Data Format
+
+
 There are the four (4) data formats commonly seen in data processing, they include structured, semi structures, quasi-structured and unstructured data format. 
+
+Structured data is highly organized, easily accessible and retrievable from where it is stored. It is machine-readable.
+
+Semi structured data is partially organized and difficult to retrieve. HTML, XML and other markup languages are examples of semi-structured data.
+
+Quasi-structured data involves specifically textual data that has a temporal state and having erratic data formats. Data streams on a social media page or clickstream data from Google searches are examples of quasi-structured data.
+
+Unstructured data is not organized, it is difficult to access and to retrieve from where it is stored. Data from social media posts, emails, and chats are examples of unstructured data. Unstructured data could be stored using XML, JSON, or CSV file formats and It is human-readable.
+
+
+
+Data Types
+
+
 String, Integers, float and boolean are some common examples of data type.
+
 
 
 Big Data 
@@ -11,7 +51,10 @@ Big Data
 Big Data defines a situation in which data sets have grown to such enormous sizes that conventional information technologies can no longer effectively handle the size of the data set. Big data grows exponentially (becoming more rapid) and is boundless (volume), has varied formats (variety), and has high complexity (voracity and velocity). The four Vs of big data: volume, variety, voracity and velocity.
 Big data emerges from a variety of sources comprising of Internet of things (IoTs), factories, enterprise resource planning and customer relations management systems according to industry experts.
 
+
+
 Big Data Security
+
 
 Many big data tools used by enterprises to identify business opportunities, improve performance, and drive decision-making are open source and not designed with security in mind. This huge increase in data consumption leads to many data security concerns, which include Information theft, distributed denial-of-service (DDoS), ransomware etc.
 It is difficult to secure big data because of constant access by different users, the presence of open source tools and the multiple feeds of data from sources with different protection needs. Big data security challenges can be experienced both on-premises and in the cloud. It is prevalent in non-relational database, endpoint vulnerabilities, data mining solutions, access distributed data processing and storage task.
