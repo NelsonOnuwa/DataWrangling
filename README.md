@@ -104,6 +104,8 @@ Using the appropriate tools such as python, data wrangler, google data prep, par
 
 
 References
+
+
 Sandro, N (2020) Internet of things. Available at: Internet of Things (IoT): Opportunities, issues and challenges towards a smart and sustainable future - ScienceDirect (Accessed: 15 February 2024).
 Mori, H (2022) IoT technologies in smart environment: security issues and future enhancement. Available at: IoT technologies in smart environment: security issues and future enhancements - PubMed (nih.gov) (Accessed: 16 February 2024).
 Mohammed, T (2019) Smart home based IoT for real time and secure remote health monitoring of triage and priority system using body sensors. Smart Home-based IoT for Real-time and Secure Remote Health Monitoring of Triage and Priority System using Body Sensors: Multi-driven Systematic Review - PubMed (nih.gov) (Accessed: 16 February 2024).
