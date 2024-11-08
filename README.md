@@ -108,6 +108,12 @@ References
 
 Sandro, N (2020) Internet of things. Available at: Internet of Things (IoT): Opportunities, issues and challenges towards a smart and sustainable future - ScienceDirect (Accessed: 15 February 2024).
 Mori, H (2022) IoT technologies in smart environment: security issues and future enhancement. Available at: IoT technologies in smart environment: security issues and future enhancements - PubMed (nih.gov) (Accessed: 16 February 2024).
+
+
 Mohammed, T (2019) Smart home based IoT for real time and secure remote health monitoring of triage and priority system using body sensors. Smart Home-based IoT for Real-time and Secure Remote Health Monitoring of Triage and Priority System using Body Sensors: Multi-driven Systematic Review - PubMed (nih.gov) (Accessed: 16 February 2024).
+
+
 Eur- lex (2016) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation). Available at: Regulation - 2016/679 - EN - gdpr - EUR-Lex (europa.eu) (Accessed 26 January 2024).
+
+
 Semarchy (2022) Seven best practices for master data management in banking. Available at: Master Data Management in Banking: 7 Best Practices - Semarchy (Accessed 30 January 2024).
