@@ -30,11 +30,11 @@ There are the four (4) data formats commonly seen in data processing, they inclu
 
 Structured data is highly organized, easily accessible and retrievable from where it is stored. It is machine-readable.
 
-Semi structured data is partially organized and difficult to retrieve. HTML, XML and other markup languages are examples of semi-structured data.
+Semi structured data is partially organized and difficult to retrieve. HTML(Hypertext Markup Language), XML (eXtensible Markup Language) and other markup languages are examples of semi-structured data.
 
 Quasi-structured data involves specifically textual data that has a temporal state and having erratic data formats. Data streams on a social media page or clickstream data from Google searches are examples of quasi-structured data.
 
-Unstructured data is not organized, it is difficult to access and to retrieve from where it is stored. Data from social media posts, emails, and chats are examples of unstructured data. Unstructured data could be stored using XML, JSON, or CSV file formats and It is human-readable.
+Unstructured data is not organized, it is difficult to access and to retrieve from where it is stored. Data from social media posts, emails, and chats are examples of unstructured data. Unstructured data could be stored using XML, JSON (JavaScript Object Notation), or CSV (Comma-Separated Values) file formats and It is human-readable.
 
 
 
