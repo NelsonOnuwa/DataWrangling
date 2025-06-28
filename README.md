@@ -23,6 +23,42 @@ Data is something that you can consider as a low level of knowledge where you ha
 
 
 
+
+
+
+Data science
+
+
+Data science is not python,R,SQL,statistics or data visualization.
+
+Data science is applying tools to analyse data in order to extract useful information.
+
+There are four jobs within data science:
+    
+      job                                              Roles                                  Tools
+    
+    Data Engineer                            store & maintain data                     SQL/Python
+    Data Analyst                             visualise & describe data                 SQL/Bi tools
+    Data Scientist                           Gain insights from data                   Python
+    Machine learning(ML)Scientist            Predict with data                         Python
+   
+
+Data scientists are responsible for collectting and analyzing complex data sets to identify patterns and insights that inform business strategy. A data scientist role is critical to any organization looking to leverage their data assets for competitive advantage.
+
+He/she communicates the significance of the data a business holds in a way that others can comprehend.
+
+To achieve this, a data scientist needs to have a working knowledge of the many programming languages and data science methodologies for addressing this challenging task.They must possess a deep understanding of statistical models, machine learning and data mining techniques.
+
+
+
+
+
+
+
+
+
+
+
 Data Format
 
 
@@ -45,11 +81,24 @@ String, Integers, float and boolean are some common examples of data type.
 
 
 
+
+
+
+
+
+
+
+
 Big Data 
 
 
 Big Data defines a situation in which data sets have grown to such enormous sizes that conventional information technologies can no longer effectively handle the size of the data set. Big data grows exponentially (becoming more rapid) and is boundless (volume), has varied formats (variety), and has high complexity (voracity and velocity). The four Vs of big data: volume, variety, voracity and velocity.
 Big data emerges from a variety of sources comprising of Internet of things (IoTs), factories, enterprise resource planning and customer relations management systems according to industry experts.
+
+
+
+
+
 
 
 
@@ -95,12 +144,49 @@ With internet of things (IoTs) devices, specific challenges ranging from the ina
 
 Data Wrangling
 
+Data science and analytics are taking over the whole world and the job of a data scientist is routinely being called the coolest job of the 21st century.
 
+But for all the emphasis on data, it is the science that makes you – the practitioner – truly valuable To practice high-quality science with data, you need to make sure it is properly sourced, cleaned, formatted, and pre-processed This book teaches you the most essential basics of this invaluable component of the data science pipeline: data wrangling.
+
+Data wrangling is the process that ensures that the data is in a format that is clean, accurate, formatted, and ready to be used for data analysis.\n",
+
+After the data scientists identify useful data sources for solving the business problem (for instance, in-house database storage or internet or streaming sensor data), they then proceed to extract, clean, and format the necessary data from those sources. Data wrangling is generally done at the very first stage of a data science/analytics pipeline.
+
+Generally, the task of data wrangling involves the following steps:
+
+Scraping raw data from multiple sources (including web and database tables)
+Imputing, formatting, and transforming – basically making it ready to be used in the modeling process (such as advanced machine learning)
+Handling read/write errors
+Detecting outliers
+Performing quick visualizations (plotting) and basic statistical analysis to judge the quality of your formatted data.
+The process of data wrangling includes first finding the appropriate data that's necessary for the analysis. This data can be from one or multiple sources, such as tweets, bank transaction statements in a relational database, sensor data, and so on. This data needs to be cleaned. If there is missing data, we will either delete or substitute it, with the help of several techniques. If there are outliers, we need to first detect them and then handle them appropriately. If data is from multiple sources, we will have to perform join operations to combine it.
+
+There is always a debate on whether to perform the wrangling process using an enterprise tool or by using a programming language
+and associated frameworks.
+    
+There are many commercial, enterprise-level tools for data formatting and pre-processing that do not 
+involve much coding on the part of the user.
+    
+These examples include the following:
+          General purpose data analysis platforms such as Microsoft Excel (with add-ins)
+          Statistical discovery package such as JMP (from SAS),
+          Modeling platforms such as RapidMiner,
+          Analytics platforms from niche players focusing on data wrangling, such as Trifacta, Paxata, and Alteryx
+
+However, programming languages such as Python provide more flexibility, control, and power compared to these off-the-shelf tools.
+As the volume, velocity, and variety (the three Vs of big data) of data undergo rapid changes.
+    
+it is always a good idea to develop and nurturea significant amount of in-house expertise in data wrangling using 
+fundamental programming frameworks so that an organization is not beholden to the whims and fancies of any enterprise platformfor as basic
+a task as data wrangling:
 When data scientists identify useful data sources for solving the business problem they then proceed to extract, clean, and format the necessary data from those sources. Data wrangling is the process that ensures that the data is in a format that is clean and accurate to yield a data set that is suitable for exploration and analysis. Data wrangling extracts the most valuable information from the dataset.
 The process of data wrangling includes first finding the appropriate data that is necessary for the analysis. This data can be from one or multiple sources, such as tweets, bank transaction statements in a relational database, sensor data, and so on. Next, the data is cleaned, where there is missing data, we will either delete or substitute it with the help of several techniques. If there are outliers, we need to first detect them and then handle them appropriately. If data is from multiple sources, we will have to perform join operations to combine it.
 
 The primary challenge of data wrangling stems from the time commitment involved to complete the task and the little amount of automated work that could be carried out on the dataset. Understanding large volume of datasets, the processing of the datasets and combination of different data types possess a significant challenge.
 Using the appropriate tools such as python, data wrangler, google data prep, parse hub, excel and talend can overcome the challenges of data wrangling.
+
+
+
 
 
 References
